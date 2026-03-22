@@ -6,4 +6,8 @@ blue
 red
 pink
 purple
+white
+
+brown
+
 
